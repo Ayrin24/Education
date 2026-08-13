@@ -14,11 +14,11 @@ terraform {
 
 # Подключение к удалённому Docker-демону по SSH
 provider "docker" {
-  host = "ssh://mulenkoi@89.169.179.114:22"
+  host = "ssh://user@host:22"
   ssh_opts = [
    "-o", "StrictHostKeyChecking=no",
    "-o", "UserKnownHostsFile=/dev/null",
-   "-i", "/home/mulen/.ssh/id_ed25519"
+   "-i", "/home/*/.ssh/*"
   ] 
 }
 
