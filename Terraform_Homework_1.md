@@ -69,7 +69,7 @@ keep_locally (Boolean) If true, then the Docker image won't be deleted on destro
 Задание 2
 
 Ответ:
-Код в директории src/01 Ответ с хоста
+Код в файле main.tf в этом репозитрии Ответ с хоста
 <img width="1348" height="117" alt="image" src="https://github.com/user-attachments/assets/e15645ec-7b32-41b5-991f-1713d13c8cc9" />
 Выполнение на сервере 
 <img width="943" height="270" alt="image" src="https://github.com/user-attachments/assets/5f9cb908-7f74-4c0e-a547-843face6c97e" />
