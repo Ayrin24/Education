@@ -25,6 +25,10 @@
 <img width="569" height="549" alt="image" src="https://github.com/user-attachments/assets/9c610152-4a29-403c-a8f0-ae755bfe79df" />
 <img width="1405" height="448" alt="image" src="https://github.com/user-attachments/assets/d8481097-cd7e-466a-9410-aa682d4ddef1" />
 https://github.com/Ayrin24/shvirtd-example-python/
+https://github.com/Ayrin24/Education/blob/main/deploy.sh
+
+Задание 5 
+
 
 
 
