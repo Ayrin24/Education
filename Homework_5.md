@@ -33,3 +33,8 @@ https://github.com/Ayrin24/Education/blob/main/deploy.sh
 
 * * * * * /home/mulenkoi/Test/backup_mysql.sh >> /var/log/backup_mysql.log 2>&1
 
+https://github.com/Ayrin24/Education/blob/main/backup_mysql.sh
+
+Задание 6
+
+<img width="618" height="317" alt="image" src="https://github.com/user-attachments/assets/4b620556-dd49-4c72-bc1f-a1c550405e10" />
