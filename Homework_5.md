@@ -29,6 +29,7 @@ https://github.com/Ayrin24/Education/blob/main/deploy.sh
 
 Задание 5 
 
+<img width="537" height="169" alt="image" src="https://github.com/user-attachments/assets/cd7d4cf7-f891-4efe-ae9d-9ca9df4d2fdd" />
 
-
+* * * * * /home/mulenkoi/Test/backup_mysql.sh >> /var/log/backup_mysql.log 2>&1
 
